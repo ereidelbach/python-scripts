@@ -10,4 +10,6 @@ This repository is home to all my routinely used Python scripts and/or functions
 
 # Resources:
 
-TBD
+1. Pandas Snippets Source: [Link][1]
+
+  [1]: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
